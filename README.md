@@ -12,7 +12,7 @@ O componente iPhone foi modelado para representar suas funcionalidades principai
 - **Navegador na Internet**
   - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
 
-![Diagrama UML do Componente iPhone](caminho/para/sua-imagem.png)
+![Iphone3 drawio](https://github.com/user-attachments/assets/650b434b-e6e7-446c-be14-e19cecfbd07e)
 
 ## Objetivo
 O objetivo deste desafio é criar um **diagrama UML** que descreva as funcionalidades acima, utilizando uma ferramenta UML de sua escolha. Opcionalmente, as classes e interfaces representadas podem ser implementadas em Java.
